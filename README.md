@@ -2,7 +2,7 @@
 Bu yapı içinde bir readme.md ve bir adet index.html dosysaı içeriyor
 
 ## Installatıon
-öncekilkle projemizi kolonladık
+öncekilkle projemizi clonladık
 
 https://github.com/omerozen07/kodluyoruzrepo.git
 
